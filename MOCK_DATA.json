@@ -1,0 +1,72 @@
+[
+  {
+    "id": 1,
+    "first_name": "Englebert",
+    "last_name": "Grube",
+    "email": "egrube0@psu.edu",
+    "gender": "Male"
+  },
+  {
+    "id": 2,
+    "first_name": "Bayard",
+    "last_name": "Kester",
+    "email": "bkester1@printfriendly.com",
+    "gender": "Male"
+  },
+  {
+    "id": 3,
+    "first_name": "Alick",
+    "last_name": "Clifton",
+    "email": "aclifton2@i2i.jp",
+    "gender": "Male"
+  },
+  {
+    "id": 4,
+    "first_name": "Mack",
+    "last_name": "Butter",
+    "email": "mbutter3@ox.ac.uk",
+    "gender": "Polygender"
+  },
+  {
+    "id": 5,
+    "first_name": "Brittani",
+    "last_name": "Downing",
+    "email": "bdowning4@omniture.com",
+    "gender": "Female"
+  },
+  {
+    "id": 6,
+    "first_name": "Hamish",
+    "last_name": "Ricciardelli",
+    "email": "hricciardelli5@arstechnica.com",
+    "gender": "Male"
+  },
+  {
+    "id": 7,
+    "first_name": "Carley",
+    "last_name": "Mallinder",
+    "email": "cmallinder6@washingtonpost.com",
+    "gender": "Bigender"
+  },
+  {
+    "id": 8,
+    "first_name": "Thane",
+    "last_name": "Brosel",
+    "email": "tbrosel7@china.com.cn",
+    "gender": "Male"
+  },
+  {
+    "id": 9,
+    "first_name": "Shirl",
+    "last_name": "Mawhinney",
+    "email": "smawhinney8@redcross.org",
+    "gender": "Female"
+  },
+  {
+    "id": 10,
+    "first_name": "Timmie",
+    "last_name": "Neville",
+    "email": "tneville9@sourceforge.net",
+    "gender": "Male"
+  }
+]
